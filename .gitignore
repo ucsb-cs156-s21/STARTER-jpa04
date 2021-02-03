@@ -1,7 +1,9 @@
 # Emacs/vim
 
 *~
+\#*\#
 *.swp
+*.swo
 
 # VSCode
 
@@ -15,10 +17,6 @@
 
 .DS_Store
 
-# CS56 specific: Secrets files
-
-localhost.json
-heroku.json
 
 # Maven (from: https://github.com/github/gitignore/blob/master/Maven.gitignore)
 
